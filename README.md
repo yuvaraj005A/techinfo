@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YUVARAJ</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **@ArcTechBots Telegram**
+- 🔭 I’m currently learning on **cloud **
 
 - I'm intrested in.... **Technology**
 
